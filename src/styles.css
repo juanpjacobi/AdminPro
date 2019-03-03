@@ -20,6 +20,12 @@
     border-radius: 100%;
 }
 
+.img100 {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
 .fondoNegro {
     background-color: rgba( 0, 0, 0, 0.4);
     position: fixed;
